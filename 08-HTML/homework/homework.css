@@ -1,3 +1,13 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('https://cdn.pixabay.com/photo/2017/06/21/07/33/background-2426328__340.jpg');
+}
+
 h1{
     color: blueviolet;
 }
